@@ -1,0 +1,17 @@
+{
+  "name": "chartmapper",
+  "displayName": "chartmapper",
+  "expo": {
+    "name": "chartmapper",
+    "slug": "chartmapper",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
